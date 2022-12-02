@@ -5,9 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@BenjiColegio-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenjiColegio)](https://twitter.com/BenjiColegio)
 [![Instagram Badge](https://img.shields.io/badge/-@benji.college-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benji.college//)](https://www.instagram.com/benji.college/)
 [![Gmail Badge](https://img.shields.io/badge/-bcolegio12-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bcolegio12@gmail.com)](mailto:bcolegio12@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BenjiCollege?tab=followers)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/BenjiCollege)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/239257914357841921)
 
 Welcome to my profile! I'm a junior cloud developer for nology, aspiring [photographer](https://gerardocolegio.com), full-time coder and part-time gamer. I am current in training for @nology, and hope to connect with other developers and employers. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gerardo-colegio/)!
 
