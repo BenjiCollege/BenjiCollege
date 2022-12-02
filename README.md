@@ -1,11 +1,10 @@
 # Hi I'm Benji Colegio 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gerardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardo-colegio/)](https://www.linkedin.com/in/gerardo-colegio/)
-[![Instagram Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-gerardo.colegio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gerardocolegio.com)](https://gerardocolegio.com)
+[![Twitter Badge](https://img.shields.io/badge/-@BenjiColegio-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenjiColegio)](https://twitter.com/BenjiColegio)
+[![Instagram Badge](https://img.shields.io/badge/-@benji.college-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/benji.college//)](https://www.instagram.com/benji.college/)
+[![Gmail Badge](https://img.shields.io/badge/-bcolegio12-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bcolegio12@gmail.com)](mailto:bcolegio12@gmail.com)
 
 Welcome to my profile! I'm a junior cloud developer for nology, aspiring [photographer](https://medium.com/@_jessicalim), full-time coder and part-time gamer. I am current in training for @nology, and hope to connect with other developers and employers. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gerardo-colegio/)!
 
