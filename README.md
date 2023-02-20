@@ -9,7 +9,7 @@
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/BenjiCollege)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/239257914357841921)
 
-Welcome to my profile! I'm a junior cloud developer for nology, aspiring [photographer](https://gerardocolegio.com), full-time coder and part-time gamer. I am current in training for @nology, and hope to connect with other developers and employers. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gerardo-colegio/)!
+Welcome to my profile! I'm a junior cloud developer for nology, aspiring [photographer](https://gerardocolegio.com), full-time coder and part-time gamer. I am currently in training for @nology, and hope to connect with other developers and employers. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gerardo-colegio/)!
 
 <h3>Things I code with</h3>
 <p>
