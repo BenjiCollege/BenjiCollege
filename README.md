@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Twitch Bot**
 
-- 🤝 I’m looking for help with **T**
+- 🤝 I’m looking for help with **Twitch Bot Web-page/App**
 
 - 👨‍💻 All of my projects are available at [www.gerardocolegio.com](www.gerardocolegio.com)
 
@@ -41,8 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjicollege&show_icons=true&locale=en" alt="benjicollege" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjicollege&" alt="benjicollege" /></p>
-
-
 
 
 
