@@ -35,6 +35,20 @@ Welcome to my profile! I'm a junior cloud developer for nology, aspiring [photog
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BenjiCollege)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BenjiCollege)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiCollege)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjiCollege&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/BenjiCollege)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BenjiCollege)  
+
+![Profile views](https://gpvc.arturio.dev/BenjiCollege)  
 
 <!-- [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
