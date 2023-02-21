@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Twitch Bot Web-page/App**
 
-- 👨‍💻 All of my projects are available at [www.gerardocolegio.com](www.gerardocolegio.com)
+- 👨‍💻 All of my projects are available at [www.gerardocolegio.dev](www.gerardocolegio.dev)
 
 - 💬 Ask me about **Javascript, GCP, MongoDB**
 
 - 📫 How to reach me **bcolegio12@gmail.com**
 
-- 📄 Know about my experiences [www.gerardocolegio.com](www.gerardocolegio.com)
+- 📄 Know about my experiences [www.gerardocolegio.dev](www.gerardocolegio.dev)
 
 - ⚡ Fun fact **I stream to twitch and love pokemon!**
 
