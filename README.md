@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo (Benji) Colegio</h1>
-<h3 align="center">A passionate DevOps Engineer from Texas</h3>
+<h3 align="center">A passionate DevOps/Website Engineer from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjicollege&label=Profile%20views&color=f55019&style=flat" alt="benjicollege" /> </p>
 
