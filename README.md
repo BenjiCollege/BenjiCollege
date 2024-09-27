@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjicollege" alt="benjicollege" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/benjicolegio" target="blank"><img src="https://img.shields.io/twitter/follow/benjicolegio?logo=twitter&style=for-the-badge" alt="benjicolegio" /></a> </p>
-
 - 🔭 I’m currently working on **Twitch Bot**
 
 - 🌱 I’m currently learning **GCP, AWS, Terraform, and Ansible**
