@@ -128,10 +128,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjicollege&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Updated Activity Graph with your username -->
   [![Gerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=benjicollege)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+
 
 ---
 
