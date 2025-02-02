@@ -128,9 +128,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjicollege&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<!-- Optional: Activity Graph -->
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg" alt="Activity Graph" />
+  <!-- Updated Activity Graph with your username -->
+  [![Gerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=benjicollege)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
